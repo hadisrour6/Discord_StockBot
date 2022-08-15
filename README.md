@@ -7,8 +7,11 @@ Crypto trades can also be made through the bot, see [here]([url](https://github.
 
 List of commands:
 - .about  will bring up all commands
-- .price or .$ followed by any valid ticker will bring up its price for example: .price AAPL or .$ AAPL\n"
+- .price or .$ followed by any valid ticker will bring up its price for example: .price AAPL or .$ AAPL
 - .trade or .Trade will begin the 'CryptoTrading' script that will begin calculating RSI and buying/selling your crypto of choice based on RSI. When an order is made an update is sent to users phone through text 
+- .sector or .sec followed by any valid ticker will return the sector said company is in
+- .dividends or .div followed by any valid ticker will return the amount of dividends the company gives out to its share holders
+- .shares or .Shares followed by any valid ticker will return the number of outstanding shares a company has 
 
 ## Technical Documentation 
   1. Install Python 3.7 or above. Install Python [here](https://www.python.org/).  
