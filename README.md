@@ -6,9 +6,9 @@ This is a discord bot you can add to your discord server to provide real time st
 Crypto trades can also be made through the bot, see [here]([url](https://github.com/hadisrour6/TA-Trading-Bot)) for more details.
 
 List of commands:
-.about  will bring up my commands
-.price or .$ followed by any valid ticker will bring up its price for example: .price AAPL or .$ AAPL\n"
-.trade or .Trade will begin the 'CryptoTrading' script that will begin calculating RSI and buying/selling your crypto of choice based on RSI. When an order is made an update is sent to users phone through text 
+- .about  will bring up all commands
+- .price or .$ followed by any valid ticker will bring up its price for example: .price AAPL or .$ AAPL\n"
+- .trade or .Trade will begin the 'CryptoTrading' script that will begin calculating RSI and buying/selling your crypto of choice based on RSI. When an order is made an update is sent to users phone through text 
 
 ## Technical Documentation 
   1. Install Python 3.7 or above. Install Python [here](https://www.python.org/).  
