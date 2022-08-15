@@ -1,0 +1,6 @@
+twilio
+numpy
+websocket_client
+python-binance
+TA-Lib
+discord
