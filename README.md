@@ -22,3 +22,7 @@ List of commands:
  
   4. Run the bot with  ```python Discord_StockBot```
  
+ ## Author & Date 
+- Author: [@hadisrour6](https://www.github.com/hadisrour6)
+- Version: 1.0.0 
+- Date: May 19, 2022 
